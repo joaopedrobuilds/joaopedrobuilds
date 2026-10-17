@@ -1,10 +1,12 @@
 # Profile assets
 
-All custom banners and project cards in this directory are hand-authored SVGs designed for the `MoveZip/MoveZip` profile README.
+This directory contains the visual system for João Pedro's GitHub profile, based on the official JPC LAB identity.
 
-- `header.svg` — animated hero with a reduced-motion fallback
-- `divider.svg` — reusable section divider
-- `project-*.svg` — public-facing project cards based on verified repository manifests and the owner's supplied descriptions
-- `footer.svg` — profile footer
+- `logo-jpc-lab.png` — original logo supplied by the owner; preserved without modification
+- `hero.svg` — personal profile banner
+- `project-*.svg` — public, privacy-safe product cards
+- `divider.svg` and `footer.svg` — shared editorial elements
 
-Technology logos in the README are loaded from pinned Devicon v2.17.0 URLs and theme-aware Simple Icons CDN URLs. No private repository URL, source file, secret, or internal document is embedded in these assets.
+The custom SVG palette is taken from the official JPC LAB website: `#020205`, `#2563EB`, and `#F5F7FB`. Technology logos are served from pinned Devicon v2.17.0 URLs and theme-aware Simple Icons URLs in the README.
+
+Private repository URLs, source code, credentials, environment files, and internal documentation are intentionally excluded.

@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-label="JPC LAB footer">
-  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07101f"/><stop offset=".5" stop-color="#10102c"/><stop offset="1" stop-color="#120821"/></linearGradient><linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
-  <rect x="1" y="1" width="1198" height="130" rx="24" fill="url(#bg)" stroke="url(#a)" stroke-opacity=".4" stroke-width="2"/>
-  <path d="M0 112h1200" stroke="url(#a)" stroke-opacity=".55"/>
-  <text x="58" y="58" fill="#eef4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800">BUILDING THE NEXT VERSION.</text>
-  <text x="58" y="88" fill="#8296be" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">João Pedro · Founder @ JPC LAB · Brazil</text>
-  <g transform="translate(1045 65)" fill="none" stroke-linecap="round"><path d="M-54-24-78 0l24 24M54-24 78 0 54 24" stroke="#22d3ee" stroke-width="7"/><path d="M17-39-17 39" stroke="#a855f7" stroke-width="7"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="João Pedro and JPC LAB footer">
+  <rect x="1" y="1" width="1198" height="138" rx="20" fill="#020205" stroke="#242936" stroke-width="2"/>
+  <rect x="48" y="36" width="5" height="68" fill="#2563EB"/>
+  <g font-family="Montserrat,Arial,sans-serif">
+    <text x="78" y="67" fill="#F5F7FB" font-size="27" font-weight="800" letter-spacing="1">LET'S CONNECT.</text>
+    <text x="78" y="98" fill="#9CA3AF" font-size="15" font-weight="500">João Pedro  /  Founder @ JPC LAB  /  Brazil</text>
+    <text x="1140" y="84" text-anchor="end" fill="#2563EB" font-size="14" font-weight="700" letter-spacing="3">DESIGN · TECHNOLOGY · PRODUCT</text>
+  </g>
 </svg>

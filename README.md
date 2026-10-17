@@ -1,41 +1,38 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="João Pedro — Software Engineering Student, product builder, and founder of JPC LAB" />
+  <img src="./assets/hero.svg" width="100%" alt="João Pedro — Software Developer and Tech Founder" />
 </p>
 
 <p align="center">
-  <a href="https://jpclab.com.br"><img src="https://img.shields.io/badge/JPC%20LAB-Website-5B5CF0?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit the JPC LAB website" /></a>
-  <a href="mailto:contato@jpclab.com.br"><img src="https://img.shields.io/badge/Email-Let's%20talk-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email João Pedro" /></a>
-  <a href="https://github.com/MoveZip"><img src="https://img.shields.io/badge/GitHub-MoveZip-0B1020?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="MoveZip on GitHub" /></a>
+  <strong>Founder @ <a href="https://www.jpclab.com.br">JPC LAB</a></strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Software Engineering Student
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Brazil
 </p>
 
 <p align="center">
-  <strong>Founder &amp; Digital Product Builder @ JPC LAB</strong><br/>
-  <sub>Software Engineering student · Brazil · Building for the web, mobile, and SaaS</sub>
+  <a href="https://www.jpclab.com.br">Website</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="mailto:jpclabdigital@gmail.com">Email</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/MoveZip">GitHub</a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Hello, world — I'm João Pedro 👋
+## About
 
-I'm a Software Engineering student and the founder of **[JPC LAB](https://jpclab.com.br)**. I build websites and digital products, explore modern technologies, and turn ideas into web, mobile, and SaaS experiences.
+I'm João Pedro, founder of **[JPC LAB](https://www.jpclab.com.br)** and a Software Engineering student based in Brazil. I build websites, digital products, and SaaS experiences, combining design, technology, and product thinking.
 
-My work sits where product thinking, engineering, and design meet. I use AI-assisted development as part of my workflow while continuing to strengthen the fundamentals behind reliable software. Over the coming years, my focus is to grow into a highly capable software engineer who can design and build thoughtful, scalable technology.
+My current interests include software engineering, web and mobile development, technology entrepreneurship, product design, and AI-assisted development. I'm focused on developing strong technical foundations, applying what I learn to real products, and improving the quality of my work over time.
 
-```ts
-const joao = {
-  basedIn: "Brazil",
-  role: "Founder & Digital Product Builder",
-  education: "Software Engineering",
-  building: ["websites", "mobile products", "SaaS"],
-  mindset: "learn deeply, build carefully, improve continuously",
-};
-```
+**Current direction:** Web Development · Mobile Applications · SaaS Products · Product Design · Continuous Learning
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Technology ecosystem
+## Technology Ecosystem
 
-These are the technologies around my projects and learning journey — not a claim of equal mastery across every tool.
+The technologies below represent my project ecosystem and active learning path — not equal or advanced proficiency across every tool.
 
 <h3 align="center">Languages &amp; Web Fundamentals</h3>
 
@@ -49,18 +46,14 @@ These are the technologies around my projects and learning journey — not a cla
   </tr>
 </table>
 
-<h3 align="center">Frontend &amp; Mobile</h3>
+<h3 align="center">Frontend &amp; Mobile Development</h3>
 
 <table width="100%">
   <tr>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="46" height="46" alt="React logo"/><br/><sub><b>React</b></sub></td>
-    <td align="center" width="20%">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000"/><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="46" height="46" alt="Next.js logo"/></picture><br/><sub><b>Next.js</b></sub>
-    </td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="46" height="46" alt="React Native logo"/><br/><sub><b>React Native</b></sub></td>
-    <td align="center" width="20%">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/expo/000020"/><img src="https://cdn.simpleicons.org/expo/000020" width="46" height="46" alt="Expo logo"/></picture><br/><sub><b>Expo</b></sub>
-    </td>
+    <td align="center" width="20%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000"/><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="46" height="46" alt="Next.js logo"/></picture><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="20%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/expo/000020"/><img src="https://cdn.simpleicons.org/expo/000020" width="46" height="46" alt="Expo logo"/></picture><br/><sub><b>Expo</b></sub></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="46" height="46" alt="Tailwind CSS logo"/><br/><sub><b>Tailwind CSS</b></sub></td>
   </tr>
 </table>
@@ -71,22 +64,18 @@ These are the technologies around my projects and learning journey — not a cla
   <tr>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="46" height="46" alt="Node.js logo"/><br/><sub><b>Node.js</b></sub></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" width="46" height="46" alt="NestJS logo"/><br/><sub><b>NestJS</b></sub></td>
-    <td align="center" width="20%">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000"/><img src="https://cdn.simpleicons.org/express/000000" width="46" height="46" alt="Express logo"/></picture><br/><sub><b>Express.js</b></sub>
-    </td>
+    <td align="center" width="20%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000"/><img src="https://cdn.simpleicons.org/express/000000" width="46" height="46" alt="Express.js logo"/></picture><br/><sub><b>Express.js</b></sub></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL logo"/><br/><sub><b>PostgreSQL</b></sub></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/supabase/supabase-original.svg" width="46" height="46" alt="Supabase logo"/><br/><sub><b>Supabase</b></sub></td>
   </tr>
 </table>
 
-<h3 align="center">Tools &amp; Engineering</h3>
+<h3 align="center">Developer Tools</h3>
 
 <table width="100%">
   <tr>
     <td align="center" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="44" height="44" alt="Git logo"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="16.66%">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"/><img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub logo"/></picture><br/><sub><b>GitHub</b></sub>
-    </td>
+    <td align="center" width="16.66%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"/><img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub logo"/></picture><br/><sub><b>GitHub</b></sub></td>
     <td align="center" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="44" height="44" alt="Docker logo"/><br/><sub><b>Docker</b></sub></td>
     <td align="center" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions logo"/><br/><sub><b>GitHub Actions</b></sub></td>
     <td align="center" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="44" height="44" alt="Visual Studio Code logo"/><br/><sub><b>VS Code</b></sub></td>
@@ -96,68 +85,76 @@ These are the technologies around my projects and learning journey — not a cla
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Products in focus
+## Selected Work
 
-The implementation repositories are private while the products are being developed. The cards below share the public story and verified technology choices without exposing private code or internal documentation.
+These products are under active development in private repositories. The summaries below communicate their public direction and verified technology choices without exposing private code or internal documentation.
 
-<p align="center"><img src="./assets/project-movezip.svg" width="100%" alt="MoveZip — mobile product built with React Native, Expo, TypeScript, and Supabase"/></p>
+<p align="center"><img src="./assets/project-movezip.svg" width="100%" alt="MoveZip — mobile application in development with React Native, Expo, TypeScript, and Supabase"/></p>
 
-<p align="center"><img src="./assets/project-cliniczip.svg" width="100%" alt="ClinicZip — clinic operations SaaS built with Next.js, NestJS, Supabase, and TypeScript"/></p>
+<p align="center"><img src="./assets/project-cliniczip.svg" width="100%" alt="ClinicZip — clinic management SaaS in development with Next.js, TypeScript, NestJS, and Supabase"/></p>
 
-<p align="center"><img src="./assets/project-hospitalar.svg" width="100%" alt="JPC LAB Hospitalar — hospital-oriented SaaS in active development"/></p>
+<p align="center"><img src="./assets/project-hospitalar.svg" width="100%" alt="JPC LAB Hospitalar — hospital-oriented SaaS platform in development"/></p>
 
-<p align="center"><a href="https://jpclab.com.br"><img src="./assets/project-jpclab.svg" width="100%" alt="JPC LAB — creative digital studio for websites, products, and technology solutions"/></a></p>
+<p align="center"><a href="https://www.jpclab.com.br"><img src="./assets/project-jpclab.svg" width="100%" alt="JPC LAB — Creative Digital Studio founded by João Pedro"/></a></p>
+
+<p align="center">
+  <a href="https://www.jpclab.com.br"><img src="./assets/logo-jpc-lab.png" width="520" alt="Official JPC LAB — Creative Digital Studio logo"/></a><br/>
+  <sub>Official JPC LAB identity · Founded by João Pedro</sub>
+</p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Currently learning
+## Education &amp; Current Focus
+
+**Software Engineering Student** — building a long-term foundation in software development through structured study and practical product work.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Languages &amp; product engineering</h3>
+      <h3>Languages &amp; Product Development</h3>
       <ul>
         <li>JavaScript, TypeScript, and Python</li>
         <li>React and Next.js</li>
-        <li>Web and mobile product development</li>
+        <li>Backend Development and Databases</li>
+        <li>Web and Mobile Applications</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Computer science &amp; systems</h3>
+      <h3>Engineering Foundations</h3>
       <ul>
-        <li>Software Engineering fundamentals</li>
         <li>Algorithms and Data Structures</li>
         <li>Software Architecture</li>
+        <li>Application Security and Software Testing</li>
+        <li>Cloud and DevOps fundamentals</li>
       </ul>
     </td>
   </tr>
 </table>
 
-> My goal is steady, evidence-based growth: learn the fundamentals, apply them to real products, and keep raising the quality of what I build.
+My focus is consistent, evidence-based progress: understanding the fundamentals, applying them to real products, and developing the judgment required to build reliable software.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## GitHub activity
+## GitHub Activity
 
-Most of my current product work lives in private repositories, so public language percentages and third-party rank cards would give an incomplete picture. GitHub's native contribution graph below this profile remains the source of truth for public activity, while released work will appear in the repositories tab over time.
+Most of my current product work is kept in private repositories. GitHub's native contribution graph below this profile is the most accurate public view of my activity; third-party rank and language cards are intentionally omitted because they would provide an incomplete picture.
 
 <p align="center">
-  <a href="https://github.com/MoveZip?tab=repositories"><img src="https://img.shields.io/badge/Explore-Public%20repositories-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore public repositories by MoveZip"/></a>
-  <a href="https://github.com/MoveZip?tab=overview"><img src="https://img.shields.io/badge/View-Live%20activity-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View live GitHub activity"/></a>
+  <a href="https://github.com/MoveZip?tab=overview">View activity</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/MoveZip?tab=repositories">Explore repositories</a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Let's build something thoughtful
+## Contact
 
-I'm interested in learning from strong engineering teams, collaborating on meaningful products, and connecting with people who care about useful technology and excellent craft.
+I'm interested in learning from strong engineering teams, collaborating on thoughtful digital products, and connecting with people working across software, design, and technology entrepreneurship.
 
 <p align="center">
-  <a href="https://jpclab.com.br"><b>jpclab.com.br</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:contato@jpclab.com.br"><b>contato@jpclab.com.br</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/MoveZip"><b>@MoveZip</b></a>
+  <a href="https://www.jpclab.com.br"><img src="https://img.shields.io/badge/Website-JPC%20LAB-2563EB?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Visit the JPC LAB website"/></a>
+  <a href="mailto:jpclabdigital@gmail.com"><img src="https://img.shields.io/badge/Email-jpclabdigital%40gmail.com-2563EB?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email João Pedro"/></a>
+  <a href="https://github.com/MoveZip"><img src="https://img.shields.io/badge/GitHub-MoveZip-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="João Pedro on GitHub"/></a>
 </p>
 
-<p align="center"><img src="./assets/footer.svg" width="100%" alt="João Pedro — Founder at JPC LAB, building the next version"/></p>
+<p align="center"><img src="./assets/footer.svg" width="100%" alt="João Pedro — Founder at JPC LAB, Brazil"/></p>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">JPC LAB project card</title><desc id="d">Creative digital studio building websites, digital experiences, and technology solutions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#160b25"/><stop offset=".55" stop-color="#10102b"/><stop offset="1" stop-color="#081528"/></linearGradient>
+    <linearGradient id="a" x1="0" x2="1"><stop stop-color="#f472b6"/><stop offset=".48" stop-color="#a855f7"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity=".45"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="26" fill="url(#bg)" stroke="#a855f7" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M0 264C213 163 282 332 478 226s277-59 387-22 203-49 335-103" fill="none" stroke="url(#a)" stroke-opacity=".12" stroke-width="48"/>
+  <g transform="translate(55 65)" filter="url(#s)">
+    <path d="M20 0h140a20 20 0 0 1 20 20v128a20 20 0 0 1-20 20H20A20 20 0 0 1 0 148V20A20 20 0 0 1 20 0" fill="#0b1025" stroke="url(#a)" stroke-width="3"/>
+    <circle cx="21" cy="20" r="4" fill="#fb7185"/><circle cx="35" cy="20" r="4" fill="#fbbf24"/><circle cx="49" cy="20" r="4" fill="#34d399"/>
+    <text x="90" y="105" text-anchor="middle" fill="url(#a)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="900">JPC</text>
+    <text x="90" y="133" text-anchor="middle" fill="#a9b8d8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="6">LAB</text>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="282" y="49" width="174" height="30" rx="15" fill="#a855f7" fill-opacity=".12" stroke="#a855f7" stroke-opacity=".48"/>
+    <text x="369" y="69" text-anchor="middle" fill="#d8a8ff" font-size="13" font-weight="700" letter-spacing="1.5">STUDIO · BRAZIL</text>
+    <text x="280" y="134" fill="#fcf8ff" font-size="54" font-weight="800">JPC LAB</text>
+    <text x="280" y="177" fill="#c0b4d1" font-size="21">Websites, digital products, and technology.</text>
+    <g transform="translate(280 214)" font-size="14" font-weight="700">
+      <rect width="94" height="34" rx="17" fill="#f472b6" fill-opacity=".13"/><text x="47" y="22" text-anchor="middle" fill="#f9a8d4">WEBSITES</text>
+      <rect x="106" width="154" height="34" rx="17" fill="#a855f7" fill-opacity=".14"/><text x="183" y="22" text-anchor="middle" fill="#d8b4fe">DIGITAL PRODUCTS</text>
+      <rect x="272" width="136" height="34" rx="17" fill="#38bdf8" fill-opacity=".13"/><text x="340" y="22" text-anchor="middle" fill="#7dd3fc">PRODUCT DESIGN</text>
+    </g>
+  </g>
+  <g transform="translate(1048 150)" fill="none" stroke="url(#a)" stroke-width="4" stroke-linecap="round"><path d="M-58-34-92 0l34 34M58-34 92 0 58 34M25-55-25 55"/><circle r="112" stroke-opacity=".12" stroke-width="2"/></g>
+</svg>

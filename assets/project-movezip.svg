@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">MoveZip project card</title><desc id="d">Private mobile application built with React Native, Expo, TypeScript, and Supabase.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071421"/><stop offset="1" stop-color="#09192e"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="1" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#64d9f2" stroke-opacity=".055"/></pattern>
+    <filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity=".45"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="26" fill="url(#bg)" stroke="#22d3ee" stroke-opacity=".32" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="26" fill="url(#p)"/>
+  <g transform="translate(66 46)" filter="url(#s)">
+    <rect width="110" height="206" rx="24" fill="#050a12" stroke="#40e0d0" stroke-opacity=".8" stroke-width="3"/>
+    <rect x="10" y="24" width="90" height="156" rx="14" fill="#0d2130"/>
+    <path d="M27 136c20-42 33-31 50-74" fill="none" stroke="url(#a)" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="27" cy="136" r="8" fill="#22d3ee"/><circle cx="77" cy="62" r="8" fill="#34d399"/>
+    <path d="M44 12h22" stroke="#718096" stroke-width="4" stroke-linecap="round"/><circle cx="55" cy="192" r="5" fill="#64748b"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="222" y="49" width="198" height="30" rx="15" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".45"/>
+    <text x="321" y="69" text-anchor="middle" fill="#7cecff" font-size="13" font-weight="700" letter-spacing="1.5">MOBILE · PRIVATE</text>
+    <text x="220" y="134" fill="#f4faff" font-size="54" font-weight="800">MoveZip</text>
+    <text x="220" y="177" fill="#a9bad2" font-size="21">Mobile product for a cross-platform experience.</text>
+    <g transform="translate(220 214)" font-size="14" font-weight="700">
+      <rect width="138" height="34" rx="17" fill="#61dafb" fill-opacity=".13"/><text x="69" y="22" text-anchor="middle" fill="#91eaff">REACT NATIVE</text>
+      <rect x="150" width="76" height="34" rx="17" fill="#fff" fill-opacity=".08"/><text x="188" y="22" text-anchor="middle" fill="#e8eefc">EXPO</text>
+      <rect x="238" width="112" height="34" rx="17" fill="#3178c6" fill-opacity=".18"/><text x="294" y="22" text-anchor="middle" fill="#7dbaf2">TYPESCRIPT</text>
+      <rect x="362" width="108" height="34" rx="17" fill="#3ecf8e" fill-opacity=".13"/><text x="416" y="22" text-anchor="middle" fill="#6ee7b7">SUPABASE</text>
+    </g>
+  </g>
+  <g transform="translate(1022 150)" fill="none" stroke="url(#a)" opacity=".75"><circle r="62"/><circle r="42" stroke-dasharray="8 8"/><path d="M-84 0h168M0-84v168" opacity=".22"/></g>
+</svg>

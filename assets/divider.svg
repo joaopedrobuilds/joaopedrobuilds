@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="38" viewBox="0 0 1200 38" role="img" aria-label="Section divider">
+  <defs><linearGradient id="g"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".22" stop-color="#22d3ee"/><stop offset=".5" stop-color="#6366f1"/><stop offset=".78" stop-color="#a855f7"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient></defs>
+  <path d="M12 19h470l16-9 16 18 16-9h140l16-9 16 18 16-9h470" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <circle cx="600" cy="19" r="5" fill="#e7edff"/><circle cx="600" cy="19" r="10" fill="none" stroke="#6366f1" opacity=".6"/>
+</svg>

@@ -1,12 +1,15 @@
 # Profile assets
 
-This directory contains the visual system for João Pedro's GitHub profile, based on the official JPC LAB identity.
+This directory contains the responsive visual system for João Pedro's GitHub profile, reconstructed from the approved JPC LAB reference.
 
-- `logo-jpc-lab.png` — original logo supplied by the owner; preserved without modification
-- `hero.svg` — personal profile banner
-- `project-*.svg` — public, privacy-safe product cards
-- `divider.svg` and `footer.svg` — shared editorial elements
+- `hero*.svg` — João Pedro and the official JPC LAB identity
+- `about*.svg` — concise professional introduction and differentiators
+- `technologies*.svg` — centered technology groups with genuine Devicon and Simple Icons artwork
+- `featured-projects*.svg` — privacy-safe project cards using genuine technology icons without screenshots or mockups
+- `education-focus*.svg` — education and current learning focus
+- `connect*.svg` — contact footer
+- `fonts/` — SIL Open Font License notices for the self-contained typography embedded in the SVG assets
 
-The custom SVG palette is taken from the official JPC LAB website: `#020205`, `#2563EB`, and `#F5F7FB`. Technology logos are served from pinned Devicon v2.17.0 URLs and theme-aware Simple Icons URLs in the README.
+Desktop and mobile variants are selected by the README through the HTML `picture` element. The palette follows the approved design: `#080D14`, `#0D1520`, `#0B131D`, `#1C2A3B`, `#F8FAFC`, `#A6B3C6`, and `#2563EB`.
 
-Private repository URLs, source code, credentials, environment files, and internal documentation are intentionally excluded.
+The official JPC LAB logo supplied by the owner already contains genuine transparency and is embedded without modification. No private source code, repository links, credentials, infrastructure details, or internal documentation are included.

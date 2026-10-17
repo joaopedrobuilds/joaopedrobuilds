@@ -2,6 +2,7 @@
 
 This directory contains the responsive visual system for João Pedro's GitHub profile, reconstructed from the approved JPC LAB reference.
 
+- `profile*.svg` — continuous desktop and mobile compositions used by the GitHub README
 - `hero*.svg` — João Pedro and the official JPC LAB identity
 - `about*.svg` — concise professional introduction and differentiators
 - `technologies*.svg` — centered technology groups with genuine Devicon and Simple Icons artwork

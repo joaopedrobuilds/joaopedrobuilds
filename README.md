@@ -10,5 +10,5 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.jpclab.com.br">JPC LAB</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/MoveZip">GitHub</a>
+  <a href="https://github.com/joaopedrobuilds">GitHub</a>
 </p>
